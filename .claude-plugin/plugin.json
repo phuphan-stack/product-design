@@ -1,0 +1,7 @@
+{
+  "name": "product-design",
+  "version": "0.1.0",
+  "description": "Design Skill Library for the Product Design team",
+  "author": { "name": "Phu Phan" },
+  "keywords": ["design", "figma", "design-system", "handoff", "ux-review", "prototype", "chotot"]
+}
